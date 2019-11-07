@@ -1,0 +1,2295 @@
+{
+    "subvalues": [
+       {
+          "subvalues": [
+             {
+                "name": "Internet Explorer 11.0",
+                "value": 6270
+             },
+             {
+                "name": "Internet Explorer 10.0",
+                "value": 7430
+             },
+             {
+                "name": "Internet Explorer 9.0",
+                "value": 6430
+             },
+             {
+                "name": "Internet Explorer 8.0",
+                "value": 4909
+             },
+             {
+                "name": "Internet Explorer 10.0",
+                "value": 3122
+             },
+             {
+                "name": "Internet Explorer 7.0",
+                "value": 1431
+             },
+             {
+                "name": "Internet Explorer 6.0",
+                "value": 673
+             },
+             {
+                "name": "Internet Explorer 5.5",
+                "value": 9
+             },
+             {
+                "name": "Internet Explorer 5.0",
+                "value": 6
+             },
+             {
+                "name": "Internet Explorer 4.0",
+                "value": 2
+             },
+             {
+                "name": "Internet Explorer 3.0",
+                "value": 2
+             },
+             {
+                "name": "Internet Explorer 2.0",
+                "value": 2
+             }
+          ],
+          "name": "Internet Explorer",
+          "value": 30574,
+          "id": "Internet Explorer"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Firefox 16.0",
+                "value": 3835
+             },
+             {
+                "name": "Firefox 17.0",
+                "value": 3162
+             },
+             {
+                "name": "Firefox 19.0",
+                "value": 2958
+             },
+             {
+                "name": "Firefox 18.0",
+                "value": 2938
+             },
+             {
+                "name": "Firefox 20.0",
+                "value": 2175
+             },
+             {
+                "name": "Firefox 21.0",
+                "value": 2111
+             },
+             {
+                "name": "Firefox 22.0",
+                "value": 1724
+             },
+             {
+                "name": "Firefox 23.0",
+                "value": 1264
+             },
+             {
+                "name": "Firefox 24.0",
+                "value": 1038
+             },
+             {
+                "name": "Firefox 12.0",
+                "value": 596
+             },
+             {
+                "name": "Firefox 14.0.1",
+                "value": 480
+             },
+             {
+                "name": "Firefox 15.0.1",
+                "value": 321
+             },
+             {
+                "name": "Firefox 13.0.1",
+                "value": 283
+             },
+             {
+                "name": "Firefox 11.0",
+                "value": 272
+             },
+             {
+                "name": "Firefox 10.0",
+                "value": 197
+             },
+             {
+                "name": "Firefox 10.0.2",
+                "value": 180
+             },
+             {
+                "name": "Firefox 9.0.1",
+                "value": 143
+             },
+             {
+                "name": "Firefox 13.0",
+                "value": 111
+             },
+             {
+                "name": "Firefox 3.0.19",
+                "value": 97
+             },
+             {
+                "name": "Firefox 3.6.28",
+                "value": 80
+             },
+             {
+                "name": "Firefox 8.0.1",
+                "value": 80
+             },
+             {
+                "name": "Firefox 25.0",
+                "value": 78
+             },
+             {
+                "name": "Firefox 4.0.1",
+                "value": 70
+             },
+             {
+                "name": "Firefox 15.0",
+                "value": 69
+             },
+             {
+                "name": "Firefox 4.0",
+                "value": 65
+             },
+             {
+                "name": "Firefox 7.0.1",
+                "value": 61
+             },
+             {
+                "name": "Firefox 3.6.13",
+                "value": 57
+             },
+             {
+                "name": "Firefox 10.0.1",
+                "value": 54
+             },
+             {
+                "name": "Firefox 5.0",
+                "value": 50
+             },
+             {
+                "name": "Firefox 3.5",
+                "value": 49
+             },
+             {
+                "name": "Firefox 3.6.3",
+                "value": 46
+             },
+             {
+                "name": "Firefox 8.0",
+                "value": 45
+             },
+             {
+                "name": "Firefox 3.6.18",
+                "value": 44
+             },
+             {
+                "name": "Firefox 6.0.2",
+                "value": 43
+             },
+             {
+                "name": "Firefox 9.0",
+                "value": 41
+             },
+             {
+                "name": "Firefox 3.6.8",
+                "value": 35
+             },
+             {
+                "name": "Firefox 5.0.1",
+                "value": 31
+             },
+             {
+                "name": "Firefox 3.6",
+                "value": 27
+             },
+             {
+                "name": "Firefox 3.6.6",
+                "value": 27
+             },
+             {
+                "name": "Firefox 2.0.0.12",
+                "value": 25
+             },
+             {
+                "name": "Firefox 3.6.12",
+                "value": 22
+             },
+             {
+                "name": "Firefox 3.0.1",
+                "value": 21
+             },
+             {
+                "name": "Firefox 2.0.0.20",
+                "value": 19
+             },
+             {
+                "name": "Firefox 3.6.10",
+                "value": 19
+             },
+             {
+                "name": "Firefox 3.5.9",
+                "value": 18
+             },
+             {
+                "name": "Firefox 6.0",
+                "value": 17
+             },
+             {
+                "name": "Firefox 3.0.15",
+                "value": 15
+             },
+             {
+                "name": "Firefox 26.0",
+                "value": 14
+             },
+             {
+                "name": "Firefox 3.5.5",
+                "value": 14
+             },
+             {
+                "name": "Firefox 3.6.23",
+                "value": 14
+             },
+             {
+                "name": "Firefox 3.5.16",
+                "value": 12
+             },
+             {
+                "name": "Firefox 3.6.15",
+                "value": 12
+             },
+             {
+                "name": "Firefox 3.6.24",
+                "value": 12
+             },
+             {
+                "name": "Firefox 3.6.17",
+                "value": 11
+             },
+             {
+                "name": "Firefox 3.6.25",
+                "value": 11
+             },
+             {
+                "name": "Firefox 3.0",
+                "value": 10
+             },
+             {
+                "name": "Firefox 3.0.4",
+                "value": 10
+             },
+             {
+                "name": "Firefox 3.5.6",
+                "value": 10
+             },
+             {
+                "name": "Firefox 3.6.2",
+                "value": 10
+             },
+             {
+                "name": "Firefox 14.0",
+                "value": 9
+             },
+             {
+                "name": "Firefox 3.0.8",
+                "value": 9
+             },
+             {
+                "name": "Firefox 3.5.3",
+                "value": 9
+             },
+             {
+                "name": "Firefox 3.0.3",
+                "value": 8
+             },
+             {
+                "name": "Firefox 3.6.11",
+                "value": 8
+             },
+             {
+                "name": "Firefox 3.6.16",
+                "value": 8
+             },
+             {
+                "name": "Firefox 6.0.1",
+                "value": 8
+             },
+             {
+                "name": "Firefox 10.0.11",
+                "value": 7
+             },
+             {
+                "name": "Firefox 10.0.12",
+                "value": 7
+             },
+             {
+                "name": "Firefox 3.0.17",
+                "value": 7
+             },
+             {
+                "name": "Firefox 3.6.26",
+                "value": 7
+             },
+             {
+                "name": "Firefox 3.0.6",
+                "value": 6
+             },
+             {
+                "name": "Firefox 3.5.2",
+                "value": 6
+             },
+             {
+                "name": "Firefox 3.6.27",
+                "value": 6
+             },
+             {
+                "name": "Firefox 15.4.1",
+                "value": 5
+             },
+             {
+                "name": "Firefox 3.5.19",
+                "value": 5
+             },
+             {
+                "name": "Firefox 7.0",
+                "value": 5
+             },
+             {
+                "name": "Firefox 1.5.0.12",
+                "value": 4
+             },
+             {
+                "name": "Firefox 2.0.0.11",
+                "value": 4
+             },
+             {
+                "name": "Firefox 3.6.19",
+                "value": 4
+             },
+             {
+                "name": "Firefox 3.6.9",
+                "value": 4
+             }
+          ],
+          "name": "Firefox",
+          "value": 25369,
+          "id": "Firefox"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Chrome 23.0.1271.64",
+                "value": 1997
+             },
+             {
+                "name": "Chrome 23.0.1271.97",
+                "value": 1759
+             },
+             {
+                "name": "Chrome 26.0.1410.64",
+                "value": 1580
+             },
+             {
+                "name": "Chrome 23.0.1271.95",
+                "value": 1282
+             },
+             {
+                "name": "Chrome 24.0.1312.57",
+                "value": 1109
+             },
+             {
+                "name": "Chrome 25.0.1364.172",
+                "value": 745
+             },
+             {
+                "name": "Chrome 27.0.1453.116",
+                "value": 648
+             },
+             {
+                "name": "Chrome 28.0.1500.72",
+                "value": 617
+             },
+             {
+                "name": "Chrome 28.0.1500.95",
+                "value": 569
+             },
+             {
+                "name": "Chrome 24.0.1312.52",
+                "value": 548
+             },
+             {
+                "name": "Chrome 26.0.1410.43",
+                "value": 471
+             },
+             {
+                "name": "Chrome 22.0.1229.94",
+                "value": 457
+             },
+             {
+                "name": "Chrome 27.0.1453.94",
+                "value": 443
+             },
+             {
+                "name": "Chrome 27.0.1453.110",
+                "value": 442
+             },
+             {
+                "name": "Chrome 30.0.1599.101",
+                "value": 425
+             },
+             {
+                "name": "Chrome 25.0.1364.97",
+                "value": 405
+             },
+             {
+                "name": "Chrome 24.0.1312.56",
+                "value": 402
+             },
+             {
+                "name": "Chrome 29.0.1547.76",
+                "value": 384
+             },
+             {
+                "name": "Chrome 29.0.1547.66",
+                "value": 338
+             },
+             {
+                "name": "Chrome 25.0.1364.152",
+                "value": 300
+             },
+             {
+                "name": "Chrome 23.0.1271.91",
+                "value": 246
+             },
+             {
+                "name": "Chrome 30.0.1599.69",
+                "value": 235
+             },
+             {
+                "name": "Chrome 18.0.1025.166",
+                "value": 162
+             },
+             {
+                "name": "Chrome 29.0.1547.57",
+                "value": 154
+             },
+             {
+                "name": "Chrome 21.0.1180.89",
+                "value": 134
+             },
+             {
+                "name": "Chrome 29.0.1547.62",
+                "value": 131
+             },
+             {
+                "name": "Chrome 28.0.1500.71",
+                "value": 111
+             },
+             {
+                "name": "Chrome 18.0.966.0",
+                "value": 74
+             },
+             {
+                "name": "Chrome 11.0.696.34",
+                "value": 72
+             },
+             {
+                "name": "Chrome 17.0.963.47",
+                "value": 61
+             },
+             {
+                "name": "Chrome 22.0.1229.79",
+                "value": 43
+             },
+             {
+                "name": "Chrome 27.0.1453.93",
+                "value": 39
+             },
+             {
+                "name": "Chrome 18.0.1025.1634",
+                "value": 38
+             },
+             {
+                "name": "Chrome 26.0.1410.65",
+                "value": 36
+             },
+             {
+                "name": "Chrome 27.0.1453.10",
+                "value": 34
+             },
+             {
+                "name": "Chrome 23.0.1271.100",
+                "value": 33
+             },
+             {
+                "name": "Chrome 29.0.1547.11",
+                "value": 33
+             },
+             {
+                "name": "Chrome 1.0",
+                "value": 32
+             },
+             {
+                "name": "Chrome 19.1.1084.5409",
+                "value": 32
+             },
+             {
+                "name": "Chrome 11.0.696.65",
+                "value": 31
+             },
+             {
+                "name": "Chrome 23.0.1271.101",
+                "value": 31
+             },
+             {
+                "name": "Chrome 25.0.1364.160",
+                "value": 31
+             },
+             {
+                "name": "Chrome 30.0.1599.66",
+                "value": 31
+             },
+             {
+                "name": "Chrome 12.0.742.100",
+                "value": 27
+             },
+             {
+                "name": "Chrome 20.0.1132.57",
+                "value": 27
+             },
+             {
+                "name": "Chrome 22.0.1104.222",
+                "value": 26
+             },
+             {
+                "name": "Chrome 21.0.1180.82",
+                "value": 24
+             },
+             {
+                "name": "Chrome 25.0.1364.169",
+                "value": 23
+             },
+             {
+                "name": "Chrome 30.0.1599.16",
+                "value": 22
+             },
+             {
+                "name": "Chrome 22.0.1229.96",
+                "value": 21
+             },
+             {
+                "name": "Chrome 26.0.1410.53",
+                "value": 21
+             },
+             {
+                "name": "Chrome 29.0.1547.72",
+                "value": 21
+             },
+             {
+                "name": "Chrome 17.0.963.46",
+                "value": 20
+             },
+             {
+                "name": "Chrome 20.0.1132.47",
+                "value": 20
+             },
+             {
+                "name": "Chrome 27.0.1453.90",
+                "value": 20
+             },
+             {
+                "name": "Chrome 28.0.1500.52",
+                "value": 20
+             },
+             {
+                "name": "Chrome 18.0.1025.168",
+                "value": 19
+             },
+             {
+                "name": "Chrome 30.0.1599.82",
+                "value": 19
+             },
+             {
+                "name": "Chrome 26.0.1410.58",
+                "value": 18
+             },
+             {
+                "name": "Chrome 22.0.1105.412",
+                "value": 17
+             },
+             {
+                "name": "Chrome 11.0.696.77",
+                "value": 15
+             },
+             {
+                "name": "Chrome 19.0.1084.46",
+                "value": 15
+             },
+             {
+                "name": "Chrome 22.0.1106.241",
+                "value": 15
+             },
+             {
+                "name": "Chrome 26.0.1410.63",
+                "value": 15
+             },
+             {
+                "name": "Chrome 28.0.1500.16",
+                "value": 15
+             },
+             {
+                "name": "Chrome 26.0.1410.50",
+                "value": 14
+             },
+             {
+                "name": "Chrome 28.0.1500.94",
+                "value": 14
+             },
+             {
+                "name": "Chrome 8.0.552.224",
+                "value": 14
+             },
+             {
+                "name": "Chrome 19.0.1084.56",
+                "value": 13
+             },
+             {
+                "name": "Chrome 15.0.874.106",
+                "value": 12
+             },
+             {
+                "name": "Chrome 17.0.963.70",
+                "value": 12
+             },
+             {
+                "name": "Chrome 19.0.1084.52",
+                "value": 12
+             },
+             {
+                "name": "Chrome 28.0.1500.63",
+                "value": 12
+             },
+             {
+                "name": "Chrome 14.0.835.202",
+                "value": 11
+             },
+             {
+                "name": "Chrome 19.1.1084.5410",
+                "value": 11
+             },
+             {
+                "name": "Chrome 21.0.1180.90",
+                "value": 11
+             },
+             {
+                "name": "Chrome 30.0.1599.92",
+                "value": 11
+             },
+             {
+                "name": "Chrome 17.0.963.56",
+                "value": 10
+             },
+             {
+                "name": "Chrome 20.0.1150.1",
+                "value": 10
+             },
+             {
+                "name": "Chrome 21.0.1174.0",
+                "value": 10
+             },
+             {
+                "name": "Chrome 25.0.1364.99",
+                "value": 10
+             },
+             {
+                "name": "Chrome 29.0.1547.59",
+                "value": 10
+             },
+             {
+                "name": "Chrome 15.0.874.121",
+                "value": 9
+             },
+             {
+                "name": "Chrome 25.0.1364.124",
+                "value": 9
+             },
+             {
+                "name": "Chrome 28.0.1500.12",
+                "value": 9
+             },
+             {
+                "name": "Chrome 10.0.648.205",
+                "value": 8
+             },
+             {
+                "name": "Chrome 12.0.742.122",
+                "value": 8
+             },
+             {
+                "name": "Chrome 16.0.912.63",
+                "value": 8
+             },
+             {
+                "name": "Chrome 24.0.1312.71",
+                "value": 8
+             },
+             {
+                "name": "Chrome 25.0.1364.123",
+                "value": 8
+             },
+             {
+                "name": "Chrome 29.0.1547.65",
+                "value": 8
+             },
+             {
+                "name": "Chrome 6.0.472.63",
+                "value": 8
+             },
+             {
+                "name": "Chrome 15.0.874.102",
+                "value": 7
+             },
+             {
+                "name": "Chrome 16.0.912.75",
+                "value": 7
+             },
+             {
+                "name": "Chrome 17.0.963.84",
+                "value": 7
+             },
+             {
+                "name": "Chrome 18.0.1025.162",
+                "value": 7
+             },
+             {
+                "name": "Chrome 21.0.1200.0",
+                "value": 7
+             },
+             {
+                "name": "Chrome 23.0.1271.96",
+                "value": 7
+             },
+             {
+                "name": "Chrome 24.0.1312.5",
+                "value": 7
+             },
+             {
+                "name": "Chrome 27.0.1453.95",
+                "value": 7
+             },
+             {
+                "name": "Chrome 27.0.1500.0",
+                "value": 7
+             },
+             {
+                "name": "Chrome 30.0.1599.12",
+                "value": 7
+             },
+             {
+                "name": "Chrome 11.0.696.71",
+                "value": 6
+             },
+             {
+                "name": "Chrome 13.0.782.215",
+                "value": 6
+             },
+             {
+                "name": "Chrome 13.0.782.220",
+                "value": 6
+             },
+             {
+                "name": "Chrome 15.0.849.0",
+                "value": 6
+             },
+             {
+                "name": "Chrome 18.0.1025.142",
+                "value": 6
+             },
+             {
+                "name": "Chrome 21.0.1180.83",
+                "value": 6
+             },
+             {
+                "name": "Chrome 22.0.1229.92",
+                "value": 6
+             },
+             {
+                "name": "Chrome 24.0.1312.14",
+                "value": 6
+             },
+             {
+                "name": "Chrome 25.0.1364.68",
+                "value": 6
+             },
+             {
+                "name": "Chrome 28.0.1500.64",
+                "value": 6
+             },
+             {
+                "name": "Chrome 12.0.725.0",
+                "value": 5
+             },
+             {
+                "name": "Chrome 12.0.742.112",
+                "value": 5
+             },
+             {
+                "name": "Chrome 12.0.742.91",
+                "value": 5
+             },
+             {
+                "name": "Chrome 14.0.835.186",
+                "value": 5
+             },
+             {
+                "name": "Chrome 16.0.912.77",
+                "value": 5
+             },
+             {
+                "name": "Chrome 17.0.963.81",
+                "value": 5
+             },
+             {
+                "name": "Chrome 21.0.1180.60",
+                "value": 5
+             },
+             {
+                "name": "Chrome 23.0.1300.0",
+                "value": 5
+             },
+             {
+                "name": "Chrome 24.2.0.0",
+                "value": 5
+             },
+             {
+                "name": "Chrome 25.0.1323.1",
+                "value": 5
+             },
+             {
+                "name": "Chrome 25.0.1364.84",
+                "value": 5
+             },
+             {
+                "name": "Chrome 3.0.193.1",
+                "value": 5
+             },
+             {
+                "name": "Chrome 9.0.597.98",
+                "value": 5
+             },
+             {
+                "name": "Chrome 11.0.696.60",
+                "value": 4
+             },
+             {
+                "name": "Chrome 13.0.782.112",
+                "value": 4
+             },
+             {
+                "name": "Chrome 14.0.835.163",
+                "value": 4
+             },
+             {
+                "name": "Chrome 15.0.874.120",
+                "value": 4
+             },
+             {
+                "name": "Chrome 21.0.1180.75",
+                "value": 4
+             },
+             {
+                "name": "Chrome 21.0.1180.79",
+                "value": 4
+             },
+             {
+                "name": "Chrome 22.0.1229.95",
+                "value": 4
+             },
+             {
+                "name": "Chrome 23.0.1.0",
+                "value": 4
+             },
+             {
+                "name": "Chrome 24.0.1312.27",
+                "value": 4
+             },
+             {
+                "name": "Chrome 24.0.1312.35",
+                "value": 4
+             },
+             {
+                "name": "Chrome 25.0.1364.86",
+                "value": 4
+             },
+             {
+                "name": "Chrome 26.0.1410.12",
+                "value": 4
+             },
+             {
+                "name": "Chrome 5.0.375.125",
+                "value": 4
+             },
+             {
+                "name": "Chrome 7.0.517.41",
+                "value": 4
+             },
+             {
+                "name": "Chrome (not set)",
+                "value": 3
+             },
+             {
+                "name": "Chrome 10.0.648.204",
+                "value": 3
+             },
+             {
+                "name": "Chrome 11.0.696.68",
+                "value": 3
+             },
+             {
+                "name": "Chrome 12.0.712.0",
+                "value": 3
+             },
+             {
+                "name": "Chrome 12.0.742.124",
+                "value": 3
+             },
+             {
+                "name": "Chrome 12.0.750.0",
+                "value": 3
+             },
+             {
+                "name": "Chrome 13.0.782.107",
+                "value": 3
+             },
+             {
+                "name": "Chrome 14.0.794.0",
+                "value": 3
+             },
+             {
+                "name": "Chrome 17.0.963.79",
+                "value": 3
+             },
+             {
+                "name": "Chrome 18.0.1025.151",
+                "value": 3
+             },
+             {
+                "name": "Chrome 19.0.1084.5406",
+                "value": 3
+             },
+             {
+                "name": "Chrome 2.0.172.43",
+                "value": 3
+             },
+             {
+                "name": "Chrome 21.0.1180.80",
+                "value": 3
+             },
+             {
+                "name": "Chrome 21.0.1208.0",
+                "value": 3
+             },
+             {
+                "name": "Chrome 22.0.1250.0",
+                "value": 3
+             },
+             {
+                "name": "Chrome 24.0.1312.40",
+                "value": 3
+             }
+          ],
+          "name": "Chrome",
+          "value": 17764,
+          "id": "Chrome"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Safari 8536.25",
+                "value": 2089
+             },
+             {
+                "name": "Safari 6.0",
+                "value": 1804
+             },
+             {
+                "name": "Safari 7534.48.3",
+                "value": 834
+             },
+             {
+                "name": "Safari 534.57.2",
+                "value": 663
+             },
+             {
+                "name": "Safari 5.1",
+                "value": 494
+             },
+             {
+                "name": "Safari 536.26.17",
+                "value": 491
+             },
+             {
+                "name": "Safari 6533.18.5",
+                "value": 314
+             },
+             {
+                "name": "Safari 6.0.5",
+                "value": 291
+             },
+             {
+                "name": "Safari 5.1.9",
+                "value": 283
+             },
+             {
+                "name": "Safari 533.22.3",
+                "value": 252
+             },
+             {
+                "name": "Safari 7.0",
+                "value": 195
+             },
+             {
+                "name": "Safari 5.0.6",
+                "value": 140
+             },
+             {
+                "name": "Safari 6.0.4",
+                "value": 121
+             },
+             {
+                "name": "Safari 5.1.7",
+                "value": 117
+             },
+             {
+                "name": "Safari 533.19.4",
+                "value": 114
+             },
+             {
+                "name": "Safari 5.0.2",
+                "value": 90
+             },
+             {
+                "name": "Safari 420+",
+                "value": 88
+             },
+             {
+                "name": "Safari 533.16",
+                "value": 81
+             },
+             {
+                "name": "Safari 531.21.10",
+                "value": 79
+             },
+             {
+                "name": "Safari 534.55.3",
+                "value": 64
+             },
+             {
+                "name": "Safari 536.28.10",
+                "value": 63
+             },
+             {
+                "name": "Safari 533.21.1",
+                "value": 61
+             },
+             {
+                "name": "Safari 534.11+",
+                "value": 54
+             },
+             {
+                "name": "Safari 535.19",
+                "value": 52
+             },
+             {
+                "name": "Safari 6.0.3",
+                "value": 49
+             },
+             {
+                "name": "Safari 4.1.3",
+                "value": 46
+             },
+             {
+                "name": "Safari 534.58.2",
+                "value": 44
+             },
+             {
+                "name": "Safari 536.26.14",
+                "value": 42
+             },
+             {
+                "name": "Safari 413",
+                "value": 40
+             },
+             {
+                "name": "Safari 534.52.7",
+                "value": 40
+             },
+             {
+                "name": "Safari 5.0",
+                "value": 38
+             },
+             {
+                "name": "Safari 536.25",
+                "value": 38
+             },
+             {
+                "name": "Safari 534.34",
+                "value": 35
+             },
+             {
+                "name": "Safari 533.4",
+                "value": 31
+             },
+             {
+                "name": "Safari 534.8+",
+                "value": 31
+             },
+             {
+                "name": "Safari 6531.22.7",
+                "value": 31
+             },
+             {
+                "name": "Safari 530.17",
+                "value": 30
+             },
+             {
+                "name": "Safari 534.57.7",
+                "value": 30
+             },
+             {
+                "name": "Safari 536.2+",
+                "value": 30
+             },
+             {
+                "name": "Safari 4.0.4",
+                "value": 27
+             },
+             {
+                "name": "Safari 534.3",
+                "value": 27
+             },
+             {
+                "name": "Safari 6.0.2",
+                "value": 27
+             },
+             {
+                "name": "Safari 531.2+",
+                "value": 25
+             },
+             {
+                "name": "Safari 5.0.5",
+                "value": 24
+             },
+             {
+                "name": "Safari 5.1.8",
+                "value": 21
+             },
+             {
+                "name": "Safari 533.3",
+                "value": 20
+             },
+             {
+                "name": "Safari 534.56.5",
+                "value": 19
+             },
+             {
+                "name": "Safari 531.22.7",
+                "value": 16
+             },
+             {
+                "name": "Safari 532.4",
+                "value": 14
+             },
+             {
+                "name": "Safari 4.0",
+                "value": 13
+             },
+             {
+                "name": "Safari 4.0.5",
+                "value": 13
+             },
+             {
+                "name": "Safari 534.51.22",
+                "value": 13
+             },
+             {
+                "name": "Safari 535.1",
+                "value": 13
+             },
+             {
+                "name": "Safari 6.0.1",
+                "value": 12
+             },
+             {
+                "name": "Safari 534.1+",
+                "value": 11
+             },
+             {
+                "name": "Safari 5.1.2",
+                "value": 10
+             },
+             {
+                "name": "Safari 525.27.1",
+                "value": 10
+             },
+             {
+                "name": "Safari 528.16",
+                "value": 10
+             },
+             {
+                "name": "Safari 534.26+",
+                "value": 10
+             },
+             {
+                "name": "Safari 534.50",
+                "value": 9
+             },
+             {
+                "name": "Safari 534.53.10",
+                "value": 9
+             },
+             {
+                "name": "Safari 417.9.2",
+                "value": 8
+             },
+             {
+                "name": "Safari 5.1.1",
+                "value": 8
+             },
+             {
+                "name": "Safari 523.12",
+                "value": 8
+             },
+             {
+                "name": "Safari 530.19",
+                "value": 8
+             },
+             {
+                "name": "Safari 533.18.5",
+                "value": 8
+             },
+             {
+                "name": "Safari 534.54.16",
+                "value": 8
+             },
+             {
+                "name": "Safari 534.6",
+                "value": 8
+             },
+             {
+                "name": "Safari 534.7",
+                "value": 8
+             },
+             {
+                "name": "Safari 312.6",
+                "value": 7
+             },
+             {
+                "name": "Safari 525",
+                "value": 7
+             },
+             {
+                "name": "Safari 533.20.27",
+                "value": 7
+             },
+             {
+                "name": "Safari 3.0.4",
+                "value": 5
+             },
+             {
+                "name": "Safari 4.0.3",
+                "value": 5
+             },
+             {
+                "name": "Safari 5.0.3",
+                "value": 5
+             },
+             {
+                "name": "Safari 5.1.4",
+                "value": 5
+             },
+             {
+                "name": "Safari 6.1",
+                "value": 5
+             },
+             {
+                "name": "Safari 525.20.1",
+                "value": 4
+             }
+          ],
+          "name": "Safari",
+          "value": 9856,
+          "id": "Safari"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Android Browser 4.0",
+                "value": 1388
+             },
+             {
+                "name": "Android Browser 533.1",
+                "value": 1217
+             },
+             {
+                "name": "Android Browser 534.30",
+                "value": 1051
+             },
+             {
+                "name": "Android Browser 530.17",
+                "value": 88
+             },
+             {
+                "name": "Android Browser 534.13",
+                "value": 59
+             },
+             {
+                "name": "Android Browser 525.20.1",
+                "value": 12
+             },
+             {
+                "name": "Android Browser 4.1",
+                "value": 4
+             },
+             {
+                "name": "Android Browser 3.1.2",
+                "value": 3
+             }
+          ],
+          "name": "Android Browser",
+          "value": 3822,
+          "id": "Android Browser"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Opera 12.15",
+                "value": 373
+             },
+             {
+                "name": "Opera 12.14",
+                "value": 315
+             },
+             {
+                "name": "Opera 12.12",
+                "value": 301
+             },
+             {
+                "name": "Opera 12.11",
+                "value": 299
+             },
+             {
+                "name": "Opera 12.16",
+                "value": 296
+             },
+             {
+                "name": "Opera 12.10",
+                "value": 248
+             },
+             {
+                "name": "Opera 12.02",
+                "value": 247
+             },
+             {
+                "name": "Opera 9.50",
+                "value": 180
+             },
+             {
+                "name": "Opera 12.13",
+                "value": 73
+             },
+             {
+                "name": "Opera 9.30",
+                "value": 50
+             },
+             {
+                "name": "Opera 12.00",
+                "value": 47
+             },
+             {
+                "name": "Opera 12.01",
+                "value": 46
+             },
+             {
+                "name": "Opera Mobi",
+                "value": 39
+             },
+             {
+                "name": "Opera 11.64",
+                "value": 37
+             },
+             {
+                "name": "Opera 11.62",
+                "value": 36
+             },
+             {
+                "name": "Opera 11.60",
+                "value": 32
+             },
+             {
+                "name": "Opera 11.61",
+                "value": 23
+             },
+             {
+                "name": "Opera 11.50",
+                "value": 18
+             },
+             {
+                "name": "Opera 507",
+                "value": 18
+             },
+             {
+                "name": "Opera Tablet",
+                "value": 18
+             },
+             {
+                "name": "Opera 10.63",
+                "value": 15
+             },
+             {
+                "name": "Opera 11.00",
+                "value": 15
+             },
+             {
+                "name": "Opera 11.01",
+                "value": 15
+             },
+             {
+                "name": "Opera 11.52",
+                "value": 15
+             },
+             {
+                "name": "Opera 10.10",
+                "value": 14
+             },
+             {
+                "name": "Opera 11.51",
+                "value": 13
+             },
+             {
+                "name": "Opera 10.00",
+                "value": 12
+             },
+             {
+                "name": "Opera 11.10",
+                "value": 11
+             },
+             {
+                "name": "Opera 11.11",
+                "value": 11
+             },
+             {
+                "name": "Opera 16.0.1196.73",
+                "value": 11
+             },
+             {
+                "name": "Opera 9.64",
+                "value": 10
+             },
+             {
+                "name": "Opera 10.01",
+                "value": 9
+             },
+             {
+                "name": "Opera 16.0.1196.80",
+                "value": 9
+             },
+             {
+                "name": "Opera 12.50",
+                "value": 8
+             },
+             {
+                "name": "Opera 15.0.1147.153",
+                "value": 8
+             },
+             {
+                "name": "Opera 17.0.1241.45",
+                "value": 7
+             },
+             {
+                "name": "Opera 9.24",
+                "value": 7
+             },
+             {
+                "name": "Opera 9.80",
+                "value": 6
+             },
+             {
+                "name": "Opera 18.0.1284.7",
+                "value": 5
+             },
+             {
+                "name": "Opera 17.0.1241.53",
+                "value": 4
+             },
+             {
+                "name": "Opera 9.51",
+                "value": 4
+             },
+             {
+                "name": "Opera 9.62",
+                "value": 4
+             }
+          ],
+          "name": "Opera",
+          "value": 2909,
+          "id": "Opera"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Opera Mini 11.10",
+                "value": 152
+             },
+             {
+                "name": "Opera Mini 7.5.32193",
+                "value": 62
+             },
+             {
+                "name": "Opera Mini 7.1.32052",
+                "value": 50
+             },
+             {
+                "name": "Opera Mini 7.5.33361",
+                "value": 36
+             },
+             {
+                "name": "Opera Mini 5.1",
+                "value": 26
+             },
+             {
+                "name": "Opera Mini 4.1.15082",
+                "value": 25
+             },
+             {
+                "name": "Opera Mini 4.4.31891",
+                "value": 19
+             },
+             {
+                "name": "Opera Mini 4.0.10247",
+                "value": 18
+             },
+             {
+                "name": "Opera Mini 6.5.26955",
+                "value": 18
+             },
+             {
+                "name": "Opera Mini 7.0.5",
+                "value": 17
+             },
+             {
+                "name": "Opera Mini 7.1.32444",
+                "value": 15
+             },
+             {
+                "name": "Opera Mini 7.0.31380",
+                "value": 14
+             },
+             {
+                "name": "Opera Mini 4.2.22537",
+                "value": 13
+             },
+             {
+                "name": "Opera Mini 5.1.21594",
+                "value": 13
+             },
+             {
+                "name": "Opera Mini 6.1.25378",
+                "value": 12
+             },
+             {
+                "name": "Opera Mini 4.1.13907",
+                "value": 11
+             },
+             {
+                "name": "Opera Mini 4.2.14912",
+                "value": 11
+             },
+             {
+                "name": "Opera Mini 5.0",
+                "value": 11
+             },
+             {
+                "name": "Opera Mini 5.1.21595",
+                "value": 11
+             },
+             {
+                "name": "Opera Mini 6.0.0",
+                "value": 11
+             },
+             {
+                "name": "Opera Mini 7.0.31438",
+                "value": 11
+             },
+             {
+                "name": "Opera Mini 7.28879",
+                "value": 10
+             },
+             {
+                "name": "Opera Mini 7.5.31657",
+                "value": 10
+             },
+             {
+                "name": "Opera Mini 3.1.10423",
+                "value": 9
+             },
+             {
+                "name": "Opera Mini 4.2.14320",
+                "value": 9
+             },
+             {
+                "name": "Opera Mini 7.0.31385",
+                "value": 9
+             },
+             {
+                "name": "Opera Mini 4.4.29476",
+                "value": 8
+             },
+             {
+                "name": "Opera Mini 4.5.33867",
+                "value": 8
+             },
+             {
+                "name": "Opera Mini 7.0.30567",
+                "value": 8
+             },
+             {
+                "name": "Opera Mini 7.1.32448",
+                "value": 8
+             },
+             {
+                "name": "Opera Mini 4.1.13572",
+                "value": 7
+             },
+             {
+                "name": "Opera Mini 4.2.18089",
+                "value": 7
+             },
+             {
+                "name": "Opera Mini 4.2.22228",
+                "value": 7
+             },
+             {
+                "name": "Opera Mini 7.0.30697",
+                "value": 7
+             },
+             {
+                "name": "Opera Mini 7.0.30701",
+                "value": 7
+             },
+             {
+                "name": "Opera Mini 7.5.32200",
+                "value": 7
+             },
+             {
+                "name": "Opera Mini 4.2",
+                "value": 6
+             },
+             {
+                "name": "Opera Mini 4.2.20457",
+                "value": 6
+             },
+             {
+                "name": "Opera Mini 4.2.23449",
+                "value": 6
+             },
+             {
+                "name": "Opera Mini 4.4.31583",
+                "value": 6
+             },
+             {
+                "name": "Opera Mini 6.0.3",
+                "value": 6
+             },
+             {
+                "name": "Opera Mini 7.0.29952",
+                "value": 6
+             },
+             {
+                "name": "Opera Mini 7.1.32051",
+                "value": 6
+             },
+             {
+                "name": "Opera Mini 4.2.20464",
+                "value": 5
+             },
+             {
+                "name": "Opera Mini 4.2.23453",
+                "value": 5
+             },
+             {
+                "name": "Opera Mini 4.4.28684",
+                "value": 5
+             },
+             {
+                "name": "Opera Mini 6.5.27309",
+                "value": 5
+             },
+             {
+                "name": "Opera Mini 4.2.13216",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 4.2.13918",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 4.2.18154",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 4.3.25172",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 4.4.28000",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 5.1.24009",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 6.5.27354",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 7.0.28870",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 7.0.32403",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 7.0.32404",
+                "value": 4
+             },
+             {
+                "name": "Opera Mini 7.5.31693",
+                "value": 4
+             }
+          ],
+          "name": "Opera Mini",
+          "value": 783,
+          "id": "Opera Mini"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Safari (in-app) (not set)",
+                "value": 549
+             }
+          ],
+          "name": "Safari (in-app)",
+          "value": 549,
+          "id": "Safari (in-app)"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Mozilla Compatible Agent 5.0",
+                "value": 292
+             },
+             {
+                "name": "Mozilla Compatible Agent 4.0",
+                "value": 4
+             }
+          ],
+          "name": "Mozilla Compatible Agent",
+          "value": 296,
+          "id": "Mozilla Compatible Agent"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Playstation 3 (not set)",
+                "value": 204
+             }
+          ],
+          "name": "Playstation 3",
+          "value": 204,
+          "id": "Playstation 3"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "YaBrowser 1.5.1106.241",
+                "value": 40
+             },
+             {
+                "name": "YaBrowser 1.7.1364.21027",
+                "value": 32
+             },
+             {
+                "name": "YaBrowser 1.7.1364.17262",
+                "value": 23
+             },
+             {
+                "name": "YaBrowser 1.7.1364.22076",
+                "value": 23
+             },
+             {
+                "name": "YaBrowser 1.5.1105.412",
+                "value": 18
+             },
+             {
+                "name": "YaBrowser 1.7.1364.15751",
+                "value": 15
+             },
+             {
+                "name": "YaBrowser 1.7.1364.22194",
+                "value": 15
+             },
+             {
+                "name": "YaBrowser 1.7.1364.13754",
+                "value": 8
+             },
+             {
+                "name": "YaBrowser 1.7.1364.12390",
+                "value": 5
+             }
+          ],
+          "name": "YaBrowser",
+          "value": 179,
+          "id": "YaBrowser"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "IE with Chrome Frame 8.0",
+                "value": 78
+             },
+             {
+                "name": "IE with Chrome Frame 7.0",
+                "value": 14
+             }
+          ],
+          "name": "IE with Chrome Frame",
+          "value": 92,
+          "id": "IE with Chrome Frame"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Amazon Silk 1.0.22.153_10033210",
+                "value": 26
+             },
+             {
+                "name": "Amazon Silk 3.1",
+                "value": 19
+             },
+             {
+                "name": "Amazon Silk 3.4",
+                "value": 16
+             },
+             {
+                "name": "Amazon Silk 2.9",
+                "value": 11
+             },
+             {
+                "name": "Amazon Silk 3.0",
+                "value": 9
+             },
+             {
+                "name": "Amazon Silk 3.7",
+                "value": 3
+             }
+          ],
+          "name": "Amazon Silk",
+          "value": 84,
+          "id": "Amazon Silk"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Maxthon 3.0",
+                "value": 46
+             },
+             {
+                "name": "Maxthon 4.0.5.4000",
+                "value": 13
+             },
+             {
+                "name": "Maxthon 4.0.6.2000",
+                "value": 8
+             }
+          ],
+          "name": "Maxthon",
+          "value": 67,
+          "id": "Maxthon"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "NetFront 3.5",
+                "value": 18
+             },
+             {
+                "name": "NetFront 4.2",
+                "value": 12
+             },
+             {
+                "name": "NetFront 3.4",
+                "value": 11
+             },
+             {
+                "name": "NetFront 4.1",
+                "value": 7
+             },
+             {
+                "name": "NetFront 3.5.1",
+                "value": 6
+             },
+             {
+                "name": "NetFront LifeBrowser",
+                "value": 6
+             }
+          ],
+          "name": "NetFront",
+          "value": 60,
+          "id": "NetFront"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "BlackBerry 7.2.1.0",
+                "value": 19
+             },
+             {
+                "name": "BlackBerry 7.1.0.342",
+                "value": 8
+             },
+             {
+                "name": "BlackBerry 7.1.0.398",
+                "value": 5
+             },
+             {
+                "name": "BlackBerry 7.1.0.714",
+                "value": 5
+             },
+             {
+                "name": "BlackBerry 10.1.0.4633",
+                "value": 4
+             },
+             {
+                "name": "BlackBerry 10.1.0.1483",
+                "value": 3
+             },
+             {
+                "name": "BlackBerry 534.8+",
+                "value": 3
+             },
+             {
+                "name": "BlackBerry 6.0.0.570",
+                "value": 3
+             },
+             {
+                "name": "BlackBerry 6.0.0.706",
+                "value": 3
+             },
+             {
+                "name": "BlackBerry 7.1.0.477",
+                "value": 3
+             }
+          ],
+          "name": "BlackBerry",
+          "value": 56,
+          "id": "BlackBerry"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Mozilla 11.0",
+                "value": 23
+             },
+             {
+                "name": "Mozilla 1.8.1.21",
+                "value": 6
+             }
+          ],
+          "name": "Mozilla",
+          "value": 29,
+          "id": "Mozilla"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "SeaMonkey 2.0.14",
+                "value": 11
+             },
+             {
+                "name": "SeaMonkey 2.17.1",
+                "value": 7
+             },
+             {
+                "name": "SeaMonkey 2.14",
+                "value": 5
+             }
+          ],
+          "name": "SeaMonkey",
+          "value": 23,
+          "id": "SeaMonkey"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "S40 Ovi Browser 2.3.0.0.49",
+                "value": 11
+             },
+             {
+                "name": "S40 Ovi Browser 3.2.0.0.6",
+                "value": 5
+             },
+             {
+                "name": "S40 Ovi Browser 3.7.0.0.11",
+                "value": 4
+             }
+          ],
+          "name": "S40 Ovi Browser",
+          "value": 20,
+          "id": "S40 Ovi Browser"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Dolfin 2.0",
+                "value": 9
+             },
+             {
+                "name": "Dolfin 3.0",
+                "value": 8
+             }
+          ],
+          "name": "Dolfin",
+          "value": 17,
+          "id": "Dolfin"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "UC Browser 8.7.1.234",
+                "value": 5
+             },
+             {
+                "name": "UC Browser 9.0.1.317",
+                "value": 4
+             },
+             {
+                "name": "UC Browser 9.1.0.319",
+                "value": 4
+             },
+             {
+                "name": "UC Browser 9.2.0.311",
+                "value": 4
+             }
+          ],
+          "name": "UC Browser",
+          "value": 17,
+          "id": "UC Browser"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "(not set) (not set)",
+                "value": 14
+             }
+          ],
+          "name": "(not set)",
+          "value": 14,
+          "id": "(not set)"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Playstation Portable (not set)",
+                "value": 13
+             }
+          ],
+          "name": "Playstation Portable",
+          "value": 13,
+          "id": "Playstation Portable"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "JUC (not set)",
+                "value": 12
+             }
+          ],
+          "name": "JUC",
+          "value": 12,
+          "id": "JUC"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "SonyEricssonW580i R8BE",
+                "value": 12
+             }
+          ],
+          "name": "SonyEricssonW580i",
+          "value": 12,
+          "id": "SonyEricssonW580i"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "UCWEB 2.0",
+                "value": 11
+             }
+          ],
+          "name": "UCWEB",
+          "value": 11,
+          "id": "UCWEB"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "BrowserNG 7.2.6.2",
+                "value": 6
+             },
+             {
+                "name": "BrowserNG 7.2.6.9",
+                "value": 5
+             }
+          ],
+          "name": "BrowserNG",
+          "value": 11,
+          "id": "BrowserNG"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "12345 (not set)",
+                "value": 9
+             }
+          ],
+          "name": "12345",
+          "value": 9,
+          "id": "12345"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Nokia Browser 7.3.1.37",
+                "value": 5
+             },
+             {
+                "name": "Nokia Browser 7.4.2.6",
+                "value": 4
+             }
+          ],
+          "name": "Nokia Browser",
+          "value": 9,
+          "id": "Nokia Browser"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "BlackBerry8520 5.0.0.592",
+                "value": 7
+             }
+          ],
+          "name": "BlackBerry8520",
+          "value": 7,
+          "id": "BlackBerry8520"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Camino 2.1.2",
+                "value": 7
+             }
+          ],
+          "name": "Camino",
+          "value": 7,
+          "id": "Camino"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Netscape 7.1",
+                "value": 6
+             }
+          ],
+          "name": "Netscape",
+          "value": 6,
+          "id": "Netscape"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "RockMelt 0.16.91.483",
+                "value": 6
+             }
+          ],
+          "name": "RockMelt",
+          "value": 6,
+          "id": "RockMelt"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "en-us (not set)",
+                "value": 5
+             }
+          ],
+          "name": "en-us",
+          "value": 5,
+          "id": "en-us"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "SAMSUNG-GT-S5230 S5230XPIK2",
+                "value": 5
+             }
+          ],
+          "name": "SAMSUNG-GT-S5230",
+          "value": 5,
+          "id": "SAMSUNG-GT-S5230"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Nintendo 3DS Browser 1.7552.US",
+                "value": 4
+             }
+          ],
+          "name": "Nintendo 3DS Browser",
+          "value": 4,
+          "id": "Nintendo 3DS Browser"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "Playstation Vita Browser 3.2",
+                "value": 4
+             }
+          ],
+          "name": "Playstation Vita Browser",
+          "value": 4,
+          "id": "Playstation Vita Browser"
+       },
+       {
+          "subvalues": [
+             {
+                "name": "BlackBerry8530 5.0.0.654",
+                "value": 3
+             }
+          ],
+          "name": "BlackBerry8530",
+          "value": 3,
+          "id": "BlackBerry8530"
+       }
+    ],
+    "id": ""
+ }
