@@ -33,7 +33,7 @@
         "pino-colada": "^1.4.5",
         "prettier-eslint": "^9.0.0",
         "webpack": "^4.16.2",
-        "webpack-cli": "^3.3.7",
+        "webpack-cli": "^3.3.12",
         "webpack-dev-server": "^3.8.0"
     },
     "dependencies": {
